@@ -26,7 +26,7 @@ Subscribe and Smash The Notification Bell here [**Brands and Products Video Prod
   * AGAIN, PROMOTE
 
 ## Call Us  
-- +6013-885 6416 Azril Amir
+## - +6013-885 6416 Azril Amir ##
 
 ## Creating an App
 
@@ -36,7 +36,7 @@ This is just a basic template. You may use it as a clean starting point to add o
 
 Some of the things I've built into this Radio code for clients include: Facebook login, Profiles, Saving Favorite Tracks, Playlists, Genres, Spotify integration, Enhanced Streaming, Tempo Analyzing, etc. There's almost unlimited things you can use this code as a starting place for. I keep this repo lightweight. That way you can customize it easily. 
 
-Yada Yada Yada, Difficult? Call Me +6013-885 6416 Azril Amir
+## Yada Yada Yada, Difficult? Call Me +6013-885 6416 Azril Amir ##
 
 ## This Images and OpenSource Codes Credits Goes To
 *Created by [Matthew Fecher](http://matthewfecher.com), Twitter: [@goFecher](http://twitter.com/goFecher)*  
